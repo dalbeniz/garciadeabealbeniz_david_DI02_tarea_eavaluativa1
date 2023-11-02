@@ -1,0 +1,7 @@
+{
+  "name": "pmdm0201",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
